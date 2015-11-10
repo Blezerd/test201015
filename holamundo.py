@@ -1,3 +1,5 @@
 print("Hola mundo")
 
-print("Adiosmundo")
+print("OLA K ASE")
+
+print("KE ASE KAMIKASE")
